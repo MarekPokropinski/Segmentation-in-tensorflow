@@ -15,4 +15,4 @@ $ python predict.py
 
 ## Example prediction
 
-<img src='prediction.png'/>
+<img src='prediction.PNG'/>
